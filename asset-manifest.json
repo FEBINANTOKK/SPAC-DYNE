@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SPAC-DYNE/static/css/main.46502425.css",
+    "main.js": "/SPAC-DYNE/static/js/main.122fd0cd.js",
+    "static/media/a.png": "/SPAC-DYNE/static/media/a.65ca1ec7cd06bc6f6315.png",
+    "static/media/img.png": "/SPAC-DYNE/static/media/img.5e762a8bb2c12f263f5d.png",
+    "index.html": "/SPAC-DYNE/index.html",
+    "main.46502425.css.map": "/SPAC-DYNE/static/css/main.46502425.css.map",
+    "main.122fd0cd.js.map": "/SPAC-DYNE/static/js/main.122fd0cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46502425.css",
+    "static/js/main.122fd0cd.js"
+  ]
+}
